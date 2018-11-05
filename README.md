@@ -7,7 +7,7 @@
 
 *Es Noviembre*
 
-~~Es Noviembre ~~~
+~~Es Noviembre ~~
 
 **Bold and _italics_**
 
@@ -30,11 +30,7 @@ My página web [Ana] (http://entropy.se/)
 - Patatas
 - Leche
 - Huevos
-
-* Patatas 
-* Leche 
-* Huevos
-
+#### Intended
 - Patatas
   - Leche
     - Huevos
@@ -57,6 +53,7 @@ Here are some examples to try out:
 $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
 $\forall x \in X, \quad \exists y \leq \epsilon$
+
 The beginning and ending dollar signs ($) are the delimiters for the TeX markup.
 
 
