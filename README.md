@@ -7,7 +7,7 @@
 
 *Es Noviembre*
 
-~~Es Noviembre ~~
+~~Es Noviembre~~
 
 **Bold and _italics_**
 
