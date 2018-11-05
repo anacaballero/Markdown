@@ -3,6 +3,7 @@
 ### Headings
 ---
 ### Styling Text
+---
 **Es Noviembre**
 
 *Es Noviembre*
@@ -23,8 +24,8 @@ a=np.array([1,2,3],[4,5,6]
 s = "Python syntax highlighting"
 print s
 ```
-##Links 
-My página web [Ana] (http://entropy.se/)
+## Links 
+My página web [Ana](http://entropy.se/)
 
 ## List
 - Patatas
