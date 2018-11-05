@@ -3,7 +3,6 @@
 ### Headings
 ---
 ### Styling Text
----
 **Es Noviembre**
 
 *Es Noviembre*
@@ -52,7 +51,9 @@ A full description of TeX math symbols is beyond the scope of this cheatsheet. H
 Here are some examples to try out:
 
 $-b \pm \sqrt{b^2 - 4ac} \over 2a$
+
 $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
+
 $\forall x \in X, \quad \exists y \leq \epsilon$
 
 The beginning and ending dollar signs ($) are the delimiters for the TeX markup.
