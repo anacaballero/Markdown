@@ -48,7 +48,7 @@ Colons can be used to align columns.
 ### TeX Mathematical Formulae
 A full description of TeX math symbols is beyond the scope of this cheatsheet. Here's a good reference, and you can try stuff out on CodeCogs. You can also play with formulae in the Markdown Here options page.
 
-![Equation] (https://latex.codecogs.com/gif.download?%5Cfrac%7Bx%5E2%7D%7By%7D)
+![Equation:](https://latex.codecogs.com/gif.download?%5Cfrac%7Bx%5E2%7D%7By%7D)
 
 Here are some examples to try out:
 
