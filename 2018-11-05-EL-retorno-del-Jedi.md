@@ -6,15 +6,17 @@ permalink: /el-retorno-del-jedi/
 source-id: 1TH5WyUQq_sOHty_cVhZU2M1udg71AE8cO69-LcySji8
 published: true
 ---
-# La guerra de las Galaxias. Capítulo VI -  El retorno del Jedi
+# La guerra de las Galaxias. 
+
+# Capítulo VI -  El retorno del Jedi
 
 R2d2 y c3po van a entregar un mensaje de Luke a Babayaga proponiendo que libere a Han Solo a cambio de entregar a C3po y R2d2. Al mismo tiempo alguien llega para vender a Chwie, pero ese alguien es Leah disfrazada.
 
-Leiah intenta salvar a Hans Solo que esta congelado pero al final los pillan a todos y los hacen prisioneros.
+Leiah intenta salvar a **Hans Solo** que esta congelado pero al final los pillan a todos y los hacen prisioneros.
 
 Después llega Luke para salvarlos y tras muchos peligros consiguen huir de Babayaga.
 
-Todos se van al cuartel de los Rebeldes. Y se van a una misión a una luna para desconectar el escudo protector de la estrella de la muerte. Allí encuentran a los ositos que los capturan. Leiah se hace amiga de los ositos pero se quieren comer a Hans y a Chwie. Se creen que c3po es un Dios y así C3po los puede convencer para que los suelten.
+Todos se van al cuartel de los *Rebeldes*. Y se van a una misión a una luna para desconectar el escudo protector de la estrella de la muerte. Allí encuentran a los ositos que los capturan. Leiah se hace amiga de los ositos pero se quieren comer a Hans y a Chwie. Se creen que c3po es un Dios y así C3po los puede convencer para que los suelten.
 
 Todo es una trampa del imperio y la resistencia. Leiah y Hans tienen que luchar contra el imperio con la ayuda de los ositos.  
 
