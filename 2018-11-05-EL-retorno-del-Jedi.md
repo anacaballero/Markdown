@@ -6,7 +6,7 @@ permalink: /el-retorno-del-jedi/
 source-id: 1TH5WyUQq_sOHty_cVhZU2M1udg71AE8cO69-LcySji8
 published: true
 ---
-# ## La guerra de las Galaxias. Capítulo VI -  El retorno del Jedi ##
+# La guerra de las Galaxias. Capítulo VI -  El retorno del Jedi
 
 R2d2 y c3po van a entregar un mensaje de Luke a Babayaga proponiendo que libere a Han Solo a cambio de entregar a C3po y R2d2. Al mismo tiempo alguien llega para vender a Chwie, pero ese alguien es Leah disfrazada.
 
