@@ -51,7 +51,10 @@ A full description of TeX math symbols is beyond the scope of this cheatsheet. H
 ![Equation:](https://latex.codecogs.com/gif.download?%5Cfrac%7Bx%5E2%7D%7By%7D)
 
 Here are some examples to try out:
+
 $x^2$
+
+$$x^2$$
 
 $$-b \pm \sqrt{b^2 - 4ac} \over 2a$$
 $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
