@@ -1,11 +1,12 @@
 # Markdown
 ## Writing  with markdown
 ### Headings
-## Styling Text
-** Es Noviembre **
-* Es Noviembre *
+---
+### Styling Text
+**Es Noviembre**
+*Es Noviembre*
 ~~Es Noviembre ~~~
-** Bold and _italics_ **
+**Bold and _italics_**
 ## Quoting text
 > Pienso que esta muy bien
 ## Quoting code
