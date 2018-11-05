@@ -1,6 +1,6 @@
 # La guerra de las Galaxias. 
 
-# Capítulo VI -  El retorno del Jedi
+## Capítulo VI -  El retorno del Jedi
 
 R2d2 y c3po van a entregar un mensaje de Luke a Babayaga proponiendo que libere a Han Solo a cambio de entregar a C3po y R2d2. Al mismo tiempo alguien llega para vender a Chwie, pero ese alguien es Leah disfrazada.
 
