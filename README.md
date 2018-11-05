@@ -74,7 +74,6 @@ def function():
     print s
 ```
 ## Emoji
-Sometimes you want to :monkey: around a bit and add some :star2: to your :speech_balloon:. Well we have a gift for you:
-
-:zap: You can use emoji anywhere GFM is supported. :v:
+Sometimes you want to :monkey: around a bit and add some :star2: to your :speech_balloon:. 
+Consult the [Emoji Cheat Sheet](https://www.emojicopy.com) for a list emo
 
