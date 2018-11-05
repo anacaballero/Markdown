@@ -4,9 +4,13 @@
 ---
 ### Styling Text
 **Es Noviembre**
+
 *Es Noviembre*
+
 ~~Es Noviembre ~~~
+
 **Bold and _italics_**
+
 ## Quoting text
 > Pienso que esta muy bien
 ## Quoting code
