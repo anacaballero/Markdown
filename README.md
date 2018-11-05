@@ -1,4 +1,3 @@
-npm install markdown-it-texmath
 # Markdown
 ## Writing  with markdown
 ### Headings
@@ -17,7 +16,7 @@ npm install markdown-it-texmath
 ## Quoting code
 ```
 import numpy as np
-a=np.array([1,2,3],[4,5,6]
+a=np.array([1,2,3],[4,5,6])
 ```
 
 ```python
