@@ -1,12 +1,5 @@
----
-title: Fy 8  Värmelära Studieuppgifter
-layout: post
-author: acaballeroh
-permalink: /fy-8--värmelära-studieuppgifter/
-source-id: 1CELIGEzDr3OdDrh1hvtujG_jnabvH1xd_4MuMY9wfQg
-published: true
----
-Fy 8  Värmelära Studieuppgifter                                         
+
+# Fy 8  Värmelära Studieuppgifter                                         
 
  
 
