@@ -1,5 +1,5 @@
 # Markdown
-## Writing  with markdown
+## Syntax
 ### Headings
 ---
 ### Styling Text
