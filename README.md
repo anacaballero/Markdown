@@ -63,4 +63,14 @@ $\forall x \in X, \quad \exists y \leq \epsilon$
 
 The beginning and ending dollar signs ($) are the delimiters for the TeX markup.
 
+## Highlighting
+Inline `code`
+
+## Python code
+```python
+def function():
+    #indenting works just fine in the fenced code block
+    s = "Python syntax highlighting"
+    print s
+```
 
