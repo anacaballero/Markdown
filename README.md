@@ -1,3 +1,4 @@
+npm install markdown-it-texmath
 # Markdown
 ## Writing  with markdown
 ### Headings
