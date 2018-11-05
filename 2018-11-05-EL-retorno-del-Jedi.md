@@ -1,11 +1,3 @@
----
-title: EL retorno del Jedi
-layout: post
-author: acaballeroh
-permalink: /el-retorno-del-jedi/
-source-id: 1TH5WyUQq_sOHty_cVhZU2M1udg71AE8cO69-LcySji8
-published: true
----
 # La guerra de las Galaxias. 
 
 # Capítulo VI -  El retorno del Jedi
